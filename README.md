@@ -28,7 +28,9 @@ Lemmatization is similar to stemming, but it reduces words to their base or dict
 
 ## Deployment
 
-The Pybot chatbot is deployed on Azure App Service using Flask. Flask allows Pybot to handle HTTP requests and responses, enabling it to interact with users over the web. You can access Pybot through the following link: [Pybot Chatbot](https://python-pybot.azurewebsites.net/)
+1 . The Pybot chatbot is deployed on Azure App Service using Flask - [Pybot Chatbot](https://python-pybot.azurewebsites.net/)
+
+2 . Also deployed the app to  [Google Cloud Run](https://pybot-5luligtdcq-uc.a.run.app/)
 
 ## Usage
 
